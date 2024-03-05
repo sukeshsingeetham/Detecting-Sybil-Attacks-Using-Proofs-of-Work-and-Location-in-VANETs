@@ -1,0 +1,29 @@
+Detecting Sybil Attacks using Proofs of Work and Location in VANETs
+
+Intelligent Transportation Systems, VANET,Sybil attack, Proof-of-Work, Proof-of-Location, Threshold signatures.
+
+Detecting_Sybil_Attacks
+
+
+
+detecting_sybil_attacks
+
+
+detect_attack
+
+RID
+source_nodeip	
+destination_nodeip	
+start_time	
+source_port	
+destination_port	
+flags	
+site	
+asn	
+num_packets	
+num_bytes	
+flow_trajectories_ip	
+proto
+prediction
+
+
