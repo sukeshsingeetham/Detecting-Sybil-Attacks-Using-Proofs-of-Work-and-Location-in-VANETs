@@ -1,0 +1,1 @@
+# Detecting-Sybil-Attacks-Using-Proofs-of-Work-and-Location-in-VANETs
